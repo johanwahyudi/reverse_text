@@ -1,2 +1,2 @@
 # reverse_text
-The reverse text encrypts a message by printing it by reverse order
+print text by reverse order
